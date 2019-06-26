@@ -3,6 +3,10 @@ A project exploring the relationship between SAT scores and demographics in NYC.
 
 # Quick observations
 
+- There are high correlations between n_s, n_t, n_p, and sat_score. Since they are correlated with total_enrollment, the positive correlation makes sense.
+    - It's surprising that the student response rate, or rr_s/the percentage of students that completed the survey is positively correlated with sat_score. This might indicate that students are more likely to fill out surveys if they believe they've done well or students who fill out surveys are more inclined to do well academically.
+    - The saf_t_11, and saf_s_11, or how students and teachrs perceived safety also correlates with sat_score. Safe learning environments make it easier to teach and learn.
+    - Interesting to note that how students perceive academic standards correlates with sat_score, but it's the opposite for how teachers and parents perceive academic standards (aca_t_11 and aca_p_11, respectively).
 ![SAT Scores and Race Correlation](https://github.com/fvu958/NYC_Schools/blob/master/graphs/sat_score_race_corr.png)
 - White and Asian students correlate positively with SAT scores. Conversely, black and Hispanic students at schools correlates negatively with SAT scores. This may be due to socioeconomic factors, poverty, less support, and more
 ![SAT Scores and Hispanic Enrollment Correlation](https://github.com/fvu958/NYC_Schools/blob/master/graphs/sat_score_hispanic_corr.png)
