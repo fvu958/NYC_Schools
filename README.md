@@ -5,7 +5,7 @@ A project exploring the relationship between SAT scores and demographics in NYC.
 
 ![SAT Scores and Race Correlation](https://github.com/fvu958/NYC_Schools/blob/master/graphs/sat_score_race_corr.png)
 - White and Asian students correlate positively with SAT scores. Conversely, black and Hispanic students at schools correlates negatively with SAT scores. This may be due to socioeconomic factors, poverty, less support, and more
-
+![SAT Scores and Hispanic Enrollment Correlation](https://github.com/fvu958/NYC_Schools/blob/master/graphs/sat_score_hispanic_corr.png)
 - A lower Hispanic student body correlates positively with higher SAT scores
 
 
