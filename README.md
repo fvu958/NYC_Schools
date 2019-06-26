@@ -21,6 +21,12 @@ A project exploring the relationship between SAT scores and demographics in NYC.
 ![SAT Scores and Percentage of Female Students Correlation](https://github.com/fvu958/NYC_Schools/blob/master/graphs/sat_score_gender_corr.png)
 - The plot above indicates having a higher percentage of female students in a school correlates positively with SAT scores. Opposite is true of males. The correlation for both, admittedly, is not very strong.
 
+![SAT Scores and Percentage of Female Students Correlation Scatter Plot](https://github.com/fvu958/NYC_Schools/blob/master/graphs/sat_score_female_corr.png)
+- There doesn't seem to be any real correlation between sat scores and female_per based on the scatter plot. There does, however, appear to be a a cluster of schools with high schools and a higher female percentage (60-80%).
+
+![SAT Scores, Enrollment, and AP Tests Correlation](https://github.com/fvu958/NYC_Schools/blob/master/graphs/sat_score_enrollment_corr.png)
+- The plot indicates there isn't a strong correlation between the percentage of students in each school that took an AP exam and total enrollment. Notable that there are a cluster of students in the 50% area that have very high SAT scores, and that there are schools where AP exam
+
 
 
 Potential Next Steps:
